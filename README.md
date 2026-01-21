@@ -44,7 +44,7 @@ python main.py --department "Bilgisayar Mühendisliği" --search-term "Bilgisaya
 - `outputs/report.txt`: korelasyon ve ozet istatistikler
 
 Not: Ciktilar `outputs/` klasorune yazilir ve yeniden calistirmada uzerine
-yazilabilir.
+yazilabilir. Bu klasor `.gitignore` ile repoya dahil edilmez.
 
 ## Notlar
 
